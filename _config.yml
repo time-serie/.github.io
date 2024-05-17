@@ -16,3 +16,6 @@ defaults:
       path: ""
     values:
       layout: "default"
+      
+plugins:
+  - "kramdown-plantuml"
